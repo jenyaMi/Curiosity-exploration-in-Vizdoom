@@ -1,0 +1,20 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'C:\\Users\\Philipp\\Documents\\GitHub\\Deep-Reinforcement-Learning-applied-to-DOOM\\A3C_Curiosity\\utils\\utils.py'
+ outputting to 'C:\\Users\\Philipp\\Documents\\GitHub\\Deep-Reinforcement-Learning-applied-to-DOOM\\A3C_Curiosity\\utils\\utilsv2.py'
+--------------------------------------------------------------------------------
+
+122:16: INFO: Renamed 'tf.get_collection' to 'tf.compat.v1.get_collection'
+122:34: INFO: Renamed 'tf.GraphKeys' to 'tf.compat.v1.GraphKeys'
+123:14: INFO: Renamed 'tf.get_collection' to 'tf.compat.v1.get_collection'
+123:32: INFO: Renamed 'tf.GraphKeys' to 'tf.compat.v1.GraphKeys'
+--------------------------------------------------------------------------------
+
