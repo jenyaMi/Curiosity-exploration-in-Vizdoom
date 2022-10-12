@@ -11,7 +11,7 @@ To run the project you should have these modules installed:
 * tf_slim
 
 ## Running code
-Use the command `python main.py` to start the training process. You can manage the training settings usiing special parameters (detailes are in utils/args.py file).
+Use the command `python main.py` to start the training process. You can manage the training settings using special parameters (detailes are in utils/args.py file).
 For instance, to train the agent to play "Deathmatch" scenario with RND exploration method:
 ```
 python main.py --scenario deathmatch --use_curiosity --RND --total_episodes 100  
